@@ -7,7 +7,7 @@ module.exports = {
 		run.selectPrereleaseToPromote,
 		run.checkoutTag,
 		run.gitGenerateRebaseCommitLog,
-		run.gitRemovePreReleaseCommits,
+		// run.gitRemovePreReleaseCommits,
 		run.gitRebaseUpstreamDefaultBranch,
 		run.checkoutDefaultBranch,
 		run.gitMergeUpstreamDefaultBranch,
